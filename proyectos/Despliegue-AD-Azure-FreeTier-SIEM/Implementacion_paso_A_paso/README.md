@@ -285,6 +285,7 @@ Ahora nos moveremos de *"computer name"* hacia el apartado *"Remote"*:
 
 1. Vamos a *select user*, clickeamos en **"ADD"**
 2. Agregaremos USER01 y USER 02, escribimos uno por uno, *USER01*  darle a checkname y agregarlos, colocar las credenciales del administrador de dominio
+
 ![alt text](./Images/image-30.png)
 
 **¡¡¡Repetir lo mismo para W02!!!**
