@@ -8,7 +8,7 @@ Aquí comparto mi progreso tanto en **Seguridad Ofensiva (Red Team)** mediante l
 
 El contenido está organizado de la siguiente manera:
 
-### 🛡️ 1. Proyectos de Arquitectura y Operaciones (SOC)
+### 🛡️ 1. Proyectos de Arquitectura y Operaciones
 * **/Proyectos:** Colección de proyectos personales enfocados en el entendimiento profundo de entornos corporativos.
 
 ### ⚔️ 2. Seguridad Ofensiva (Writeups)
